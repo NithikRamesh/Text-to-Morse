@@ -17,8 +17,9 @@ A simple java software to convert English text to Morse code and Morse code back
 4. Enter the text or code you need to convert 
 5. Enjoy!
   
+### Example
 
-
+![](https://github.com/NithikRamesh/Text-to-Morse/blob/master/Screenshots/image1.png)
 
 
 
