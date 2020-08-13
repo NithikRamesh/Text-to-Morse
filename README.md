@@ -16,5 +16,23 @@ A simple java software to convert English text to Morse code and Morse code back
 3. Enter the required option 
 4. Enter the text or code you need to convert 
 5. Enjoy!
- 
+  
+### Example
+
+> ->>This software converts text to morse code and vice-versa<<-
+>
+> -->Enter the Required option
+> 1. English text to Morse
+> 2. Morse to English
+> 3. Exit 
+> -> 1
+> .
+> -->Enter the Text that you want to convert to Morse Code 
+> ->Hello
+> .
+> -->The Morse Code for the given text is:- 
+> --> .... . .-.. .-.. ---
+
+
+
 
