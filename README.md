@@ -13,7 +13,6 @@ A simple java software to convert English text to Morse code and Morse code back
 + Install the software with the above instructions
 + Type in `java main` to run the program
 + Enter the required option 
-  ![Enter an option](/home/nithik/Documents/java.png)
 + Enter the text or code you need to convert 
 + Enjoy!
  
