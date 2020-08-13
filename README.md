@@ -6,7 +6,7 @@ A simple java software to convert English text to Morse code and Morse code back
 
 # Installation
  
-`sudo apt update ; apt install git ; git clone https://github.com/NithikRamesh/Text-to-Morse ; cd Text-to-Morse`
+`sudo apt update ; apt install git ; git clone https://github.com/NithikRamesh/Text-to-Morse ; cd Text-to-Morse ; java main`
 
 # Usage
 
